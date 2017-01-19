@@ -1,0 +1,24 @@
+{
+  "name": "mockvpca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukkyjoe/mockVP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukkyjoe/mockVP/issues"
+  },
+  "homepage": "https://github.com/lukkyjoe/mockVP#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0"
+  }
+}
